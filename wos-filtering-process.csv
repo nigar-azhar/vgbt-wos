@@ -1,0 +1,331 @@
+#,Resource Name,year,Publication,Source,Relevant,Reason
+1,A co-evolutionary genetic algorithms approach to detect video game bugs,2022,J SYST SOFTWARE,WoS,duplicate-yes,
+2,Automated Video Game Testing Using Synthetic and Humanlike Agents,2021,IEEE T GAMES,WoS,duplicate-yes,
+3,Exploring the use of online video games to detect personality dichotomies,2017,ONLINE INFORM REV,WoS,no,"Using online video games to detect personality dichotomies, does not focus on game testing"
+4,"General Video Game AI: A Multitrack Framework for Evaluating Agents, Games, and Content Generation Algorithms",2019,IEEE T GAMES,WoS,duplicate-no,
+5,Go-Explore Complex 3-D Game Environments for Automated Reachability Testing,2022,IEEE T GAMES,WoS,duplicate-yes,
+6,A game engine designed to simplify 2D video game development,2020,MULTIMED TOOLS APPL,WoS,no,Focusses on 2d game develpment
+7,Automated video game parameter tuning with XVGDL,2022,J UNIVERS COMPUT SCI,WoS,no,game develpment
+8,From traditional gaming to mobile gaming: Video game players' switching behaviour!,2022,ENTERTAIN COMPUT,WoS,no,User behaviour
+9,Rolling Horizon Evolutionary Algorithms for General Video Game Playing,2022,IEEE T GAMES,WoS,no,General video game playing not testing
+10,Video-games: Do they require general intelligence?,2009,COMPUT EDUC,WoS,no,Investigation into whether video games require general intelligence
+11,Rafting multiplayer video games,2022,SOFTWARE PRACT EXPER,WoS,no,Design and analysis of multiplayer rafting video games
+12,A video game for the neuropsychological screening of children,2017,ENTERTAIN COMPUT,WoS,no,games as tools: Development of a video game for neuropsychological screening of children
+13,Cloud Gaming with Foveated Video Encoding,2020,ACM T MULTIM COMPUT,WoS,no,Cloud gaming implementation
+14,Facial Features of Non-player Creatures Can Influence Moral Decisions in Video Games,2017,ACM T APPL PERCEPT,WoS,no,User behaviour: Influence of facial features of non-player creatures on moral decisions in video games
+15,Learning Prosody in a Video Game-Based Learning Approach,2019,MULTIMODAL TECHNOLOG,WoS,no,Game as tool: Learning Prosody
+16,Improving Youngsters' Resilience Through Video Game-Based Interventions,2020,VIETNAM J COMPUT SCI,WoS,no,games as tools: Enhancing youngsters' resilience 
+17,The 2014 General Video Game Playing Competition,2016,IEEE T COMP INTEL AI,WoS,no,
+18,Beyond action video games: Differences in gameplay and ability preferences among gaming genres,2021,ENTERTAIN COMPUT,WoS,no,user behaviour: Study on gameplay and ability preferences across gaming genres
+19,"An empirical study on gender, video game play, academic success and complex problem solving skills",2018,COMPUT EDUC,WoS,no,"game player behaviour: Empirical study on gender, video game play, academic success, and complex problem-solving skills"
+20,Developing social-emotional concepts for learning with video games,2023,COMPUT EDUC,WoS,no,Focuses on social-emotional concepts in learning with video games.
+21,Evaluation of cognitive behavior among deaf subjects with video game as intervention,2017,COGN SYST RES,WoS,no,Evaluates cognitive behavior among deaf subjects using video games as intervention.
+22,Slingshot 3D: A synchronous haptic-audio-video game,2014,MULTIMED TOOLS APPL,WoS,no,Focuses on synchronous haptic-audio-video game development.
+23,Detecting Video Game Player Burnout With the Use of Sensor Data and Machine Learning,2021,IEEE INTERNET THINGS,WoS,no,Focuses on detecting player burnout using sensor data and machine learning.
+24,Evaluation of an electronic video game for improvement of balance,2012,VIRTUAL REAL-LONDON,WoS,no,Evaluates an electronic video game's effectiveness in improving balance.
+25,"Context counts: The different implications of weekday and weekend video gaming for academic performance in mathematics, reading, and science",2018,COMPUT EDUC,WoS,no,Explores the implications of weekday and weekend video gaming on academic performance.
+26,Exploring video games that invoke curiosity,2019,ENTERTAIN COMPUT,WoS,no,Investigates video games that invoke curiosity.
+27,Analytical Framework for Facial Expression on Game Experience Test,2022,IEEE ACCESS,WoS,no,Develops an analytical framework for facial expressions in game experience testing.
+28,Towards a unified theory of toxic behavior in video games,2020,INTERNET RES,WoS,no,Aims to develop a unified theory of toxic behavior in video games.
+29,"The correlation between positive reviews, playtime, design and game mechanics in souls-like role-playing video games",2023,MULTIMED TOOLS APPL,WoS,no,"Studies the correlation between positive reviews, playtime, design, and game mechanics in souls-like RPGs."
+30,Deception in video games: examining varieties of griefing,2013,ONLINE INFORM REV,WoS,no,Examines varieties of griefing and deception in video games.
+31,Developing and evaluating a BCI video game for neurofeedback training: the case of autism,2019,MULTIMED TOOLS APPL,WoS,no,Develops and evaluates a BCI video game for neurofeedback training in autism.
+32,Automatic evolution of programs for procedural generation of terrains for video games,2012,SOFT COMPUT,WoS,no,Focuses on automatic evolution of programs for procedural generation of terrains in video games.
+33,Extended Interaction With a BCI Video Game Changes Resting-State Brain Activity,2020,IEEE T COGN DEV SYST,WoS,no,Investigates changes in resting-state brain activity due to extended interaction with a BCI video game.
+34,Representational-competency supports in the context of an educational video game for undergraduate astronomy,2022,COMPUT EDUC,WoS,no,Focuses on representational-competency supports in an educational video game for undergraduate astronomy.
+35,Can educational video games increase high school students' interest in theatre?,2015,COMPUT EDUC,WoS,no,Examines the potential of educational video games to increase high school students' interest in theatre.
+36,News Presentation and the Third-Person Effect of Violent Video Games,2019,INT J GAMING COMPUT-,WoS,no,Explores news presentation and the third-person effect of violent video games.
+37,AN EMPIRICAL STUDY ON COLLECTIVE INTELLIGENCE ALGORITHMS FOR VIDEO GAMES PROBLEM-SOLVING,2015,COMPUT INFORM,WoS,no,Conducts an empirical study on collective intelligence algorithms for video game problem-solving.
+38,Effects of Prosocial Video Games on Prosocial Thoughts and Prosocial Behaviors,2023,SOC SCI COMPUT REV,WoS,no,Studies the effects of prosocial video games on thoughts and behaviors.
+39,Rapid and Reliable Adaptation of Video Game AI,2009,IEEE T COMP INTEL AI,WoS,no,Focuses on rapid and reliable adaptation of video game AI.
+40,Congestion Control for Cloud Gaming Over UDP Based on Round-Trip Video Latency,2019,IEEE ACCESS,WoS,no,Develops congestion control methods for cloud gaming based on round-trip video latency.
+41,BashDungeon: Learning UNIX with a video-game,2019,MULTIMED TOOLS APPL,WoS,no,Aims to teach UNIX learning through a video-game approach.
+42,"A qualitative investigation of users' discovery, access, and organization of video games as information objects",2016,J INF SCI,WoS,no,Qualitatively investigates users' interaction with video games as information objects.
+43,Serious games to prevent and detect bullying and cyberbullying: A systematic serious games and literature review,2020,COMPUT EDUC,WoS,no,Reviews serious games for preventing and detecting bullying and cyberbullying.
+44,Game-Theoretic Pricing for Video Streaming in Mobile Networks,2012,IEEE T IMAGE PROCESS,WoS,no,Develops game-theoretic pricing models for video streaming in mobile networks.
+45,Risk-Distortion Analysis for Video Collusion Attacks: A Mouse-and-Cat Game,2010,IEEE T IMAGE PROCESS,WoS,no,Analyzes risk-distortion in video collusion attacks using a game-theoretic approach.
+46,Computing machinery and emergence: The aesthetics and metaphysics of video games,2005,MIND MACH,WoS,no,Explores the aesthetics and metaphysics of video games and computing machinery.
+47,Building a Planner: A Survey of Planning Systems Used in Commercial Video Games,2019,IEEE T GAMES,WoS,no,Surveys planning systems used in commercial video games.
+48,Performance prediction at single-action level to a first-person shooter video game,2021,VIRTUAL REAL-LONDON,WoS,no,Predicts performance at the single-action level in a first-person shooter video game.
+49,CCPT: Automated gameplay testing and validation with curiosity-conditioned proximal trajectories,2022,IEEE Transactions on Games,WoS,duplicate-yes,
+50,Deep learning and multivariate time series for cheat detection in video games,2021,MACH LEARN,WoS,duplicate-no,
+51,The unexpected comfort of wearing headphones: Emotional and cognitive effects of headphone use when playing a bloody video game,2017,ENTERTAIN COMPUT,WoS,no,Explores emotional and cognitive effects of headphone use in playing a bloody video game.
+52,SGAME: An Authoring Tool to Easily Create Educational Video Games by Integrating SCORM-Compliant Learning Objects,2021,IEEE ACCESS,WoS,no,Develops an authoring tool for creating educational video games with SCORM-compliant learning objects.
+53,"What makes male gamers angry, sad, amused, and enthusiastic while playing violent video games?",2021,ENTERTAIN COMPUT,WoS,no,Investigates emotional responses of male gamers while playing violent video games.
+54,Automatic Recognition of Boredom in Video Games Using Novel Biosignal Moment-Based Features,2011,IEEE T AFFECT COMPUT,WoS,no,Develops methods for automatic recognition of boredom in video games using novel biosignal features.
+55,Design of a serious games to improve resilience skills in youngsters,2022,ENTERTAIN COMPUT,WoS,no,Designs a serious game to improve resilience skills in youngsters.
+56,Serious video games and psychological support: A depression intervention among young cancer patients,2022,ENTERTAIN COMPUT,WoS,no,Explores serious video games for psychological support in depression intervention among young cancer patients.
+57,The Effect of Multiplayer Video Games on Incidental and Intentional L2 Vocabulary Learning: The Case of Among Us,2021,MULTIMODAL TECHNOLOG,WoS,no,Studies the effect of multiplayer video games on L2 vocabulary learning using Among Us as a case study.
+58,"Describing, organizing, and maintaining video game development artifacts",2021,J ASSOC INF SCI TECH,WoS,duplicate-no,
+59,A model for collective behaviour propagation: a case study of video game industry,2020,NEURAL COMPUT APPL,WoS,no,Develops a model for collective behavior propagation in the video game industry.
+60,"Game-based interventions for neuropsychological assessment, training and rehabilitation: Which game-elements to use? A systematic review",2019,J BIOMED INFORM,WoS,no,"Reviews game-based interventions for neuropsychological assessment, training, and rehabilitation."
+61,An empirical investigation of eWOM and used video game trading: The moderation effects of product features,2019,DECIS SUPPORT SYST,WoS,no,"Empirically investigates eWOM and used video game trading, moderated by product features."
+62,The adaptable Pareto set problem for facility location: A video game approach,2021,EXPERT SYST APPL,WoS,no,Applies a video game approach to solve the adaptable Pareto set problem for facility location.
+63,A hybrid graphics/video rate control method based on graphical assets for cloud gaming,2022,J REAL-TIME IMAGE PR,WoS,no,Develops a hybrid graphics/video rate control method for cloud gaming using graphical assets.
+64,A Video Game-Crowdsourcing Approach to Discover a Player's Strategy for Problem Solution to Housing Development,2021,IEEE ACCESS,WoS,no,Uses a video game-crowdsourcing approach to discover player strategies for housing development problem solutions.
+65,Investigating On-Screen Gamepad Designs for Smartphone-Controlled Video Games,2015,ACM T MULTIM COMPUT,WoS,no,Investigates on-screen gamepad designs for smartphone-controlled video games.
+66,Meme representations for game agents,2015,WORLD WIDE WEB,WoS,no,Explores meme representations for game agents.
+67,More than skills: A novel matching proposal for multiplayer video games,2018,ENTERTAIN COMPUT,WoS,no,Proposes a novel matching system for multiplayer video games.
+68,Neural correlates of action video game experience in a visuospatial working memory task,2020,NEURAL COMPUT APPL,WoS,no,Investigates neural correlates of action video game experience in visuospatial working memory tasks.
+69,Moving towards the End of Gender Differences in the Habits of Use and Consumption of Mobile Video Games,2022,INFORMATION,WoS,no,Examines gender differences in the habits of use and consumption of mobile video games.
+70,"Conceptual models and mental models in operation: Frustration, performance and flow with two different video game controllers",2018,ENTERTAIN COMPUT,WoS,no,Explores conceptual and mental models in video game operation with different controllers.
+71,The emerging adolescent World of Warcraft video gamer: A five factor exploratory profile model,2016,ENTERTAIN COMPUT,WoS,no,Develops a five-factor exploratory profile model for emerging adolescent World of Warcraft gamers.
+72,Acceptance of game-based learning by secondary school teachers,2013,COMPUT EDUC,WoS,no,Investigates the acceptance of game-based learning by secondary school teachers.
+73,Living With Technical Debt-A Perspective From the Video Game Industry,2021,IEEE SOFTWARE,WoS,no,Explores technical debt in the video game industry.
+74,A non-cooperative quality optimization game for scalable video delivery over MANETs,2013,WIREL NETW,WoS,no,Develops a non-cooperative quality optimization game for scalable video delivery over MANETs.
+75,Avatars of a Feather Flock Together: Gender Homophily in Online Video Games Revealed via Exponential Random Graph Modeling,2020,IEEE T GAMES,WoS,no,Studies gender homophily in online video games using exponential random graph modeling.
+76,"I tag, you tag: the role of tagging in the formation of topic-based communities of video game channels in YouTube (2016)",2022,SOC NETW ANAL MIN,WoS,no,Investigates the role of tagging in forming topic-based communities of video game channels on YouTube.
+77,Avatar economies: affective investment from game to platform,2018,NEW REV HYPERMEDIA M,WoS,no,Focuses on avatar economies and affective investment .
+78,Analysis of Video Game Players' Emotions and Team Performance: An Esports Tournament Case Study,2022,IEEE J BIOMED HEALTH,WoS,no,Analyzes emotions and team performance in esports tournaments .
+79,Assessing the Believability of Computer Players in Video Games: A New Protocol and Computer Tool,2021,FRONT COMP SCI-SWITZ,WoS,no,Evaluates the believability of computer players .
+80,Game induced emotion analysis using electroencephalography,2022,COMPUT BIOL MED,WoS,no,Analyzes game-induced emotions using EEG .
+81,Empirical evaluation of metadata for video games and interactive media,2015,J ASSOC INF SCI TECH,WoS,no,Evaluates metadata for video games and interactive media .
+82,Towards a system of customized video game mechanics based on player personality: Relating the Big Five personality traits with difficulty adaptation in a first-person shooter game,2016,ENTERTAIN COMPUT,WoS,no,Develops customized game mechanics based on player personality .
+83,A Data-Driven Approach for Video Game Playability Analysis Based on Players' Reviews,2021,INFORMATION,WoS,no,Uses data-driven approach for playability analysis based on player reviews .
+84,Students' perceptions about the use of video games in the classroom,2010,COMPUT EDUC,WoS,no,Investigates students' perceptions of using video games in education .
+85,A Pattern Mining Approach to Study Strategy Balance in RTS Games,2017,IEEE T COMP INTEL AI,WoS,no,Uses pattern mining to study strategy balance in RTS games .
+86,Detecting conversational groups in images and sequences: A robust game-theoretic approach,2016,COMPUT VIS IMAGE UND,WoS,no,Detects conversational groups using game-theoretic approaches .
+87,Evaluating Cognitive and Affective Outcomes of a Digital Game-Based Math Test,2018,IEEE T LEARN TECHNOL,WoS,no,Evaluates cognitive and affective outcomes of a digital game-based math test .
+88,QoE modeling for audiovisual associated with MOBA game using subjective approach,2022,MULTIMED TOOLS APPL,WoS,no,Models QoE for MOBA game audiovisuals using subjective approach .
+89,A Method to Evaluate Emotions in Educational Video Games for Children,2013,J UNIVERS COMPUT SCI,WoS,no,Evaluates emotions in educational video games for children .
+90,Exploring how players use emergent narrative in strategy games,2023,ENTERTAIN COMPUT,WoS,no,Explores how players use emergent narrative in strategy games .
+91,To Kill or Not to Kill-An experimental test of moral Decision-Making in gaming,2022,ENTERTAIN COMPUT,WoS,no,Conducts experimental tests on moral decision-making in gaming .
+92,"Investigating the Impact of Gaming Habits, Gender, and Age on the Effectiveness of an Educational Video Game: An Exploratory Study",2017,IEEE T LEARN TECHNOL,WoS,no,"Investigates impact of gaming habits, gender, and age on educational video game effectiveness ."
+93,Digital Educational Games: Methodologies for Evaluating the Impact of Game Type,2018,ACM T COMPUT-HUM INT,WoS,no,Discusses methodologies for evaluating impact of game type in educational games .
+94,Verifying Maze-Like Game Levels With Model Checker SPIN,2022,IEEE ACCESS,WoS,duplicate-no,
+95,The distant Horizon: Investigating the relationship between social sciences academic research and game development,2020,ENTERTAIN COMPUT,WoS,no,Investigates relationship between social sciences research and game development .
+96,Multimedia augmented reality game for learning math,2022,MULTIMED TOOLS APPL,WoS,no,Develops multimedia AR game for learning math .
+97,Generating semantic descriptions of broadcasted sports videos based on structures of sports games and TV programs,2005,MULTIMED TOOLS APPL,WoS,no,Generates semantic descriptions of sports videos .
+98,Visual Detection of Unknown Objects in Video Games Using Qualitative Stability Analysis,2016,IEEE T COMP INTEL AI,WoS,no,Uses qualitative stability analysis for visual detection in video games .
+99,EEG based stress analysis using rhythm specific spectral feature for video game play,2022,COMPUT BIOL MED,WoS,no,Analyzes EEG-based stress during video game play .
+100,Effects of Gender on Perception and Interpretation of Video Game Character Behavior and Emotion,2017,IEEE T COMP INTEL AI,WoS,no,Studies gender effects on perception of video game character behavior and emotion .
+101,"The Design, Development, and Testing of Learning Supports for the Physics Playground Game",2021,INT J ARTIF INTELL E,WoS,no,"Designs, develops, and tests learning supports for the Physics Playground game ."
+102,Challenges and Opportunities in Game Artificial Intelligence Education Using Angry Birds,2015,IEEE ACCESS,WoS,no,Discusses challenges and opportunities in game AI education using Angry Birds .
+103,Reducing Outgroup Bias through Intergroup Contact with Non-Playable Video Game Characters in VR,2018,PRESENCE-VIRTUAL AUG,WoS,no,Addresses reducing outgroup bias through VR interactions .
+104,Resource Allocation for D2D Video Multicast Using Multi-Leader Multi-Follower Stackelberg Game With Personalized Incentives,2019,IEEE ACCESS,WoS,no,Allocates resources for D2D video multicast using game theory .
+105,Beyond Fun and Games: A Framework for Quantifying Music Skill Developments from Video Game Play,2011,J NEW MUSIC RES,WoS,no,Develops framework for quantifying music skill development from video game play .
+106,"The Impact of Controller Naturalness on Spatial Presence, Gamer Enjoyment, and Perceived Realism in a Tennis Simulation Video Game",2011,PRESENCE-TELEOP VIRT,WoS,no,Studies impact of controller naturalness on gamer experience in a tennis simulation .
+107,Improvement potentials in balance and visuo-motor reaction time after mixed reality action game play: a pilot study,2020,VIRTUAL REAL-LONDON,WoS,no,Investigates improvement potentials in balance and reaction time after mixed reality game play .
+108,Art in an algorithm: A taxonomy for describing video game visual styles,2018,J ASSOC INF SCI TECH,WoS,duplicate-no,
+109,Reinforcement Learning in Video Games Using Nearest Neighbor Interpolation and Metric Learning,2016,IEEE T COMP INTEL AI,WoS,no,Applies reinforcement learning techniques in video games .
+110,"Real-world demotivation as a predictor of continued video game playing: A study on escapism, anxiety and lack of intrinsic motivation",2022,ELECTRON COMMER R A,WoS,no,Studies real-world factors influencing continued video game playing .
+111,An objective and subjective quality assessment study of passive gaming video streaming,2020,INT J NETW MANAG,WoS,no,Assesses objective and subjective quality of passive gaming video streaming .
+112,Identifying gameplay videos that exhibit bugs in computer games,2019,EMPIR SOFTW ENG,WoS,no,Identifies gameplay videos showing bugs in computer games.
+113,Nature of arcade games,2022,ENTERTAIN COMPUT,WoS,no,Explores the nature of arcade games .
+114,"Differences in EEG Microstate Induced by Gaming: A Comparison Between the Gaming Disorder Individual, Recreational Game Users and Healthy Controls",2021,IEEE ACCESS,WoS,no,"Compares EEG microstates in gaming disorder individuals, recreational users, and healthy controls ."
+115,Timesplitters: Playing video games before (but not after) school on weekdays is associated with poorer adolescent academic performance. A test of competing theoretical accounts,2020,COMPUT EDUC,WoS,no,Examines association between playing video games and academic performance .
+116,Playing Aloud: Leveraging Game Commentary Culture for Playtesting,2022,INT J GAMING COMPUT-,WoS,no,Uses game commentary culture for playtesting .
+117,Asymmetric and selective object rendering for optimized Cloud Mobile 3D Display Gaming user experience,2017,MULTIMED TOOLS APPL,WoS,no,Optimizes object rendering for Cloud Mobile 3D Display gaming .
+118,Bayesian event detection for sport games with hidden Markov model,2012,PATTERN ANAL APPL,WoS,no,Detects events in sport games using hidden Markov models .
+119,Design guidelines for Classroom Multiplayer Presential Games (CMPG),2011,COMPUT EDUC,WoS,no,Develops design guidelines for classroom multiplayer presential games .
+120,Effect of Social Environment on Brand Recall in Sports Video Games,2021,INT J GAMING COMPUT-,WoS,no,Studies effect of social environment on brand recall in sports video games .
+121,BOWLING GAME EVENTS DETECTION BASED ON AUDIO-VISUAL CLUES,2010,INT J INNOV COMPUT I,WoS,no,Detects bowling game events using audio-visual clues .
+122,Characterizing player responses to surprising events in 2D platform games,2023,ENTERTAIN COMPUT,WoS,no,Characterizes player responses to surprising events in 2D platform games .
+123,Predict the Value of Football Players Using FIFA Video Game Data and Machine Learning Techniques,2022,IEEE ACCESS,WoS,no,Predicts football player values using FIFA video game data and ML techniques .
+124,Game Accessibility and Advocacy for Participation of the Japanese Disability Community,2020,INFORMATION,WoS,no,Advocates for game accessibility for Japanese disability community .
+125,Video games can develop graduate skills in higher education students: A randomised trial,2017,COMPUT EDUC,WoS,no,Conducts randomized trial on video game development of graduate skills in higher education students .
+126,Efficient Deep Learning Bot Detection in Games Using Time Windows and Long Short-Term Memory (LSTM),2020,IEEE ACCESS,WoS,no,Detects bots in games using deep learning and LSTM .
+127,SDN-Enabled Game-Aware Routing for Cloud Gaming Datacenter Network,2017,IEEE ACCESS,WoS,no,Implements SDN-enabled game-aware routing for cloud gaming datacenter network .
+128,Playing to play: a piano-based user interface for music education video-games,2019,MULTIMED TOOLS APPL,WoS,no,Develops piano-based UI for music education video games .
+129,"Coping with COVID-19 pandemic stressors: Comparisons between non-players and players, and levels of Game Transfer Phenomena",2023,ENTERTAIN COMPUT,WoS,no,"Compares coping with COVID-19 stressors between players and non-players, and examines Game Transfer Phenomena ."
+130,Experimental Feedback on Prog&Play: A Serious Game for Programming Practice,2011,COMPUT GRAPH FORUM,WoS,no,"Provides experimental feedback on Prog&Play, a serious game for programming practice ."
+131,Measuring the sociocultural appeal of SNS games in Taiwan,2013,INTERNET RES,WoS,no,Sociocultural appeal of SNS games in Taiwan
+132,Students' attitudes toward playing games and using games in education: Comparing Scotland and the Netherlands,2013,COMPUT EDUC,WoS,no,Attitudes toward gaming and its use in education in Scotland and the Netherlands
+133,How Decisions Are Made in Brains: Unpack Black Box of CNN With Ms. Pac-Man Video Game,2020,IEEE ACCESS,WoS,no,Decision-making processes in brains using CNN with Ms. Pac-Man
+134,Can Video Games Be Used as a Stealth Assessment of Aggression? A Criterion-Related Validity Study,2019,INT J GAMING COMPUT-,WoS,no,Using video games for stealth assessment of aggression
+135,Effects of commercial video games on cognitive elaboration of physical concepts,2015,COMPUT EDUC,WoS,no,Impact of commercial video games on cognitive elaboration of physical concepts
+136,Investigating the impact of video games on high school students' engagement and learning about genetics,2009,COMPUT EDUC,WoS,no,Impact of video games on high school students' engagement and learning about genetics
+137,Integrating Science Tasks and Puzzles in Computer Role Playing Games,2019,MULTIMODAL TECHNOLOG,WoS,no,Integration of science tasks and puzzles in computer role-playing games
+138,Partial Reinforcement in Game Biofeedback for Relaxation Training,2021,IEEE T AFFECT COMPUT,WoS,no,Partial reinforcement in game biofeedback for relaxation training
+139,CHAMELEON: online learning for believable behaviors based on humans imitation in computer games,2013,COMPUT ANIMAT VIRT W,WoS,duplicate-no,
+140,PeaceMaker: A video game to teach peace,2005,LECT NOTES COMPUT SC,WoS,no,Use of video games for teaching peace
+141,The key successful factors of video and mobile game crowdfunding projects using a lexicon-based feature selection approach,2021,J AMB INTEL HUM COMP,WoS,no,Successful factors of video and mobile game crowdfunding projects
+142,A Visuo-Haptic Attention Training Game With Dynamic Adjustment of Difficulty,2019,IEEE ACCESS,WoS,no,Visuo-haptic attention training game with dynamic difficulty adjustment
+143,Auction-based serious game for bug tracking,2019,IET SOFTW,WoS,no,Auction-based serious game for bug tracking
+144,Looking for archetypes: Applying game data mining to hearthstone decks,2022,ENTERTAIN COMPUT,WoS,no,Applying game data mining to Hearthstone decks
+145,Designing productively negative experiences with serious game mechanics: Qualitative analysis of game-play and game design in a randomized trial,2018,COMPUT EDUC,WoS,no,Designing productively negative experiences with serious game mechanics
+146,A narrative metaphor to facilitate educational game authoring,2012,COMPUT EDUC,WoS,no,Narrative metaphor for facilitating educational game authoring
+147,Dissecting Cloud Gaming Performance with DECAF,2021,P ACM MEAS ANAL COMP,WoS,no,Dissecting cloud gaming performance with DECAF
+148,Exploiting semantic segmentation to boost reinforcement learning in video game environments,2023,MULTIMED TOOLS APPL,WoS,no,Exploiting semantic segmentation to boost reinforcement learning in video game environments
+149,Empirical Comparisons for Combining Balancing and Feature Selection Strategies for Characterizing Football Players Using FIFA Video Game System,2021,IEEE ACCESS,WoS,no,Comparing balancing and feature selection strategies for characterizing football players
+150,"Working Attention, Planning and Social Skills Through Pervasive Games in Interactive Spaces",2022,IEEE T LEARN TECHNOL,WoS,no,"Developing attention, planning, and social skills through pervasive games"
+151,Online gaming misbehaviours and their adverse impact on other gamers,2012,ONLINE INFORM REV,WoS,no,Study of online gaming misbehaviors and their impact on other gamers
+152,Are Exergames Exercise? A Scoping Review of the Short-Term Effects of Exertion Games,2021,IEEE T GAMES,WoS,no,Reviewing short-term effects of exergames as exercise
+153,Classification of Video Game Player Experience Using Consumer-Grade Electroencephalography,2022,IEEE T AFFECT COMPUT,WoS,duplicate-no,
+154,Patterns of Engagement in an Educational Massively Multiplayer Online Game: A Multidimensional View,2020,IEEE T LEARN TECHNOL,WoS,no,Patterns of engagement in educational MMO games
+155,An update to the systematic literature review of empirical evidence of the impacts and outcomes of computer games and serious games,2016,COMPUT EDUC,WoS,no,Updating systematic literature review on impacts of computer and serious games
+156,Procedural content improvement of game bosses with an evolutionary algorithm,2023,MULTIMED TOOLS APPL,WoS,no,Procedural content improvement of game bosses using evolutionary algorithms
+157,Making Maps Available for Play: Analyzing the Design of Game Cartography Interfaces,2019,ACM T COMPUT-HUM INT,WoS,no,Analyzing design of game cartography interfaces
+158,Mobile games and design requirements to increase teenagers' physical activity,2012,PERVASIVE MOB COMPUT,WoS,no,Design requirements of mobile games to increase teenagers' physical activity
+159,Gaming in the clouds: QoE and the users' perspective,2013,MATH COMPUT MODEL,WoS,no,Quality of experience and user perspective in cloud gaming
+160,Performance Analysis of Game Engines on Mobile and Fixed Devices,2017,ACM T MULTIM COMPUT,WoS,no,Performance analysis of game engines on mobile and fixed devices
+161,"Gender, Gaming Motives, and Genre: Comparing Singaporean, German, and American Players",2022,IEEE T GAMES,WoS,no,"Comparing gender, gaming motives, and genres among Singaporean, German, and American players"
+162,Efficacy of Using Retro Games in Multimodal Biofeedback Systems for Mental Relaxation,2022,INT J GAMING COMPUT-,WoS,no,Using retro games in biofeedback systems for mental relaxation
+163,A methodology for assessing the effectiveness of serious games and for inferring player learning outcomes,2018,MULTIMED TOOLS APPL,WoS,no,Methodology for assessing effectiveness of serious games and inferring player learning outcomes
+164,An empirical study of players' emotions in VR racing games based on a dataset of physiological data,2020,MULTIMED TOOLS APPL,WoS,no,Study of players' emotions in VR racing games using physiological data
+165,Developing two game-based interventions for dyslexia therapeutic interventions using gamification and serious games approaches entertainment computing journal,2022,ENTERTAIN COMPUT,WoS,no,Developing game-based interventions for dyslexia using gamification and serious games
+166,How do avatar characteristics affect avatar friendliness and online gamer loyalty? Perspective of the theory of embodied cognition,2018,INTERNET RES,WoS,no,Impact of avatar characteristics on avatar friendliness and online gamer loyalty
+167,Safe science classrooms: Teacher training through serious educational games,2014,INFORM SCIENCES,WoS,no,Teacher training through serious educational games in safe science classrooms
+168,Content protection for games,2006,IBM SYST J,WoS,no,Content protection strategies for games
+169,Learning and motivational effects of digital game-based learning (DGBL) for manufacturing education -The Life Cycle Assessment (LCA) game,2018,COMPUT IND,WoS,no,Learning and motivational effects of DGBL in manufacturing education
+170,Why future friends matter: impact of expectancy of relational growth on online gamer loyalty,2020,INTERNET RES,WoS,no,Impact of future friendships on expectancy of relational growth and online gamer loyalty
+171,Serious games for the job training of persons with developmental disabilities,2016,COMPUT EDUC,WoS,no,Serious games for job training of persons with developmental disabilities
+172,Parental acceptance of digital game-based learning,2011,COMPUT EDUC,WoS,no,Parental acceptance of digital game-based learning
+173,Review of the Use of AI Techniques in Serious Games: Decision Making and Machine Learning,2017,IEEE T COMP INTEL AI,WoS,no,Reviewing AI techniques in serious games for decision-making and machine learning
+174,Fostering computational thinking through collaborative game-based learning,2019,MULTIMED TOOLS APPL,WoS,duplicate-no,
+175,Understanding the behavioural intention to play online games An extension of the theory of planned behaviour,2009,ONLINE INFORM REV,WoS,no,Understanding behavioral intention to play online games using theory of planned behavior
+176,Image processing analysis and research based on game animation design,2019,J VIS COMMUN IMAGE R,WoS,no,Analysis of image processing and research on game animation design
+177,An initial understanding of how game users explore virtual environments,2017,ENTERTAIN COMPUT,WoS,no,Understanding how game users explore virtual environments
+178,Using the playful consumption experience model to uncover behavioral intention to play Multiplayer Online Battle Arena (MOBA) games,2022,DATA TECHNOL APPL,WoS,no,Using playful consumption experience model to uncover behavioral intention to play MOBA games
+179,Timing of learning supports in educational games can impact students? outcomes,2022,COMPUT EDUC,WoS,no,Impact of timing of learning supports in educational games on student outcomes
+180,Ideating and Developing a Visualization Dashboard to Support Teachers Using Educational Games in the Classroom,2021,IEEE ACCESS,WoS,no,Developing a visualization dashboard to support teachers using educational games
+181,A self-determination theory-based laboratory experiment on social aspects of playing multiplayer first-person shooter games,2020,ENTERTAIN COMPUT,WoS,no,Experiment on social aspects of playing multiplayer first-person shooter games using self-determination theory
+182,Emotion recognition from physiological signals and video games to detect personality traits,2021,J INTELL FUZZY SYST,WoS,no,Recognizing emotions and personality traits using physiological signals and video games
+183,Physics-Inspired Upsampling for Cloth Simulation in Games,2011,ACM T GRAPHIC,WoS,no,Physics-inspired upsampling for cloth simulation in games
+184,Promoting art appreciation performances and behaviors in effective and joyful contexts: A two-tier test-based digital gaming approach,2023,COMPUT EDUC,WoS,no,Promoting art appreciation performances and behaviors using digital gaming approach
+185,Infinite Loot Box: A Platform for Simulating Video Game Loot Boxes,2020,IEEE T GAMES,WoS,no,Platform for simulating video game loot boxes
+186,High Performance on Atari Games Using Perceptual Control Architecture Without Training,2022,J INTELL ROBOT SYST,WoS,no,Achieving high performance on Atari games without training using perceptual control architecture
+187,"Teach me to play, gamer! Imitative learning in computer games via linguistic description of complex phenomena and decision trees",2023,SOFT COMPUT,WoS,no,Imitative learning in computer games via linguistic description and decision trees
+188,"DEv-PROMELA: modeling, verification, and validation of a video game by combining model-checking and simulation",2020,SIMUL-T SOC MOD SIM,WoS,duplicate-no,
+189,Examining the pedagogical foundations of modern educational computer games,2008,COMPUT EDUC,WoS,no,Examining pedagogical foundations of modern educational computer games
+190,Utilizing social media and video games to control #DIY microscopes,2017,PEERJ COMPUT SCI,WoS,no,Using social media and video games to control #DIY microscopes
+191,Assessing the Impact of Game Modalities in Second Language Acquisition: ELLE the EndLess LEarner,2020,J UNIVERS COMPUT SCI,WoS,no,Assessing impact of game modalities in second language acquisition using ELLE
+192,Moderate Gaming and Internet Use Show Positive Association with Online Reading of 10-Year-Olds in Europe,2022,COMPUT EDUC OPEN,WoS,no,Positive association of moderate gaming and internet use with online reading in European 10-year-olds
+193,Staying Motivated During Difficult Times: A Snapshot of Serious Games for Paediatric Cancer Patients,2020,IEEE T GAMES,WoS,no,Serious games for staying motivated during difficult times in pediatric cancer patients
+194,Predicting learning effects of computer games using the Gamified Knowledge Encoding Model,2019,ENTERTAIN COMPUT,WoS,no,Predicting learning effects of computer games using Gamified Knowledge Encoding Model
+195,Virtual Forestry Generation: Evaluating Models for Tree Placement in Games,2020,COMPUTERS,WoS,no,Evaluating models for tree placement in games
+196,Cardiovascular physiology predicts learning effects in a serious game activity,2013,COMPUT EDUC,WoS,no,Predicting learning effects in serious game activity using cardiovascular physiology
+197,An evolutionary approach for generating software models: The case of Kromaia in Game Software Engineering,2021,J SYST SOFTWARE,WoS,duplicate-no,
+198,Prolog-Scripted Tactics Negotiation and Coordinated Team Actions for Counter-Strike Game Bots,2016,IEEE T COMP INTEL AI,WoS,no,Tactics negotiation and team actions using Prolog-scripted approach for Counter-Strike game bots
+199,Comparison of a Tablet Versus Computer-Based Classical Theatre Game Among 8-13 Year Children,2021,IEEE ACCESS,WoS,no,Comparison of tablet vs. computer for classical theatre game among 8-13 year olds
+200,Solving strategy board games using a CSP-based ACO approach,2017,INT J BIO-INSPIR COM,WoS,no,Solving strategy board games using CSP-based ACO approach
+201,Investigating the added value of interactivity and serious gaming for educational TV,2011,COMPUT EDUC,WoS,no,Added value of interactivity and serious gaming for educational TV
+202,Serious games for improving knowledge and self-management in young people with chronic conditions: a systematic review and meta-analysis,2016,J AM MED INFORM ASSN,WoS,no,Serious games for improving knowledge and self-management in youth with chronic conditions
+203,A novel UML-based methodology for modeling adventure-based educational games,2021,ENTERTAIN COMPUT,WoS,no,UML-based methodology for modeling adventure-based educational games
+204,Clinical and Personality Correlates of MMO Gaming: Anxiety and Absorption in Problematic Internet Use,2013,SOC SCI COMPUT REV,WoS,no,Correlates of MMO gaming: Anxiety and absorption in problematic internet use
+205,A multigeneration diffusion model for IT-intensive game consoles,2008,J ASSOC INF SYST,WoS,no,Diffusion model for IT-intensive game consoles across generations
+206,The Case of a Multiplication Skills Game: Teachers' Viewpoint on MG's Dashboard and OSLM Features,2021,COMPUTERS,WoS,no,Teachers' viewpoint on multiplication skills game dashboard and OSLM features
+207,A game-theoretic approach for selecting optimal time-dependent thresholds for anomaly detection,2019,AUTON AGENT MULTI-AG,WoS,no,Game-theoretic approach for selecting thresholds in anomaly detection
+208,A hybrid edge-cloud architecture for reducing on-demand gaming latency,2014,MULTIMEDIA SYST,WoS,no,Hybrid edge-cloud architecture for reducing gaming latency
+209,Reductions in sickness with repeated exposure to HMD-based virtual reality appear to be game-specific,2022,VIRTUAL REAL-LONDON,WoS,no,"Reductions in sickness with VR exposure, game-specific"
+210,Non-Contact Emotion Recognition Combining Heart Rate and Facial Expression for Interactive Gaming Environments,2020,IEEE ACCESS,WoS,no,Non-contact emotion recognition combining heart rate and facial expression for gaming
+211,Attuning a mobile simulation game for school children using a design-based research approach,2015,COMPUT EDUC,WoS,no,Attuning mobile simulation game for school children using design-based research
+212,Cultural implications in the acceptability of game-based learning,2021,COMPUT EDUC,WoS,no,Cultural implications in game-based learning acceptability
+213,Visualizing event sequence game data to understand player's skill growth through behavior complexity,2019,J VISUAL-JAPAN,WoS,no,Visualizing game data to understand player skill growth
+214,Relationship between digital game experience and problem-solving performance according to a PISA framework,2022,COMPUT EDUC,WoS,no,Relationship between digital game experience and problem-solving performance
+215,Deep spherical harmonics light probe estimator for mixed reality games,2018,COMPUT GRAPH-UK,WoS,no,Deep spherical harmonics light probe estimator for mixed reality games
+216,Design of Customized Virtual Reality Serious Games for the Cognitive Rehabilitation of Retrograde Amnesia After Brain Stroke,2022,J COMPUT INF SCI ENG,WoS,no,Designing VR serious games for cognitive rehabilitation post brain stroke
+217,"Scaffolding game-based learning: Impact on learning achievements, perceived learning, and game experiences",2014,COMPUT EDUC,WoS,no,"Scaffolding game-based learning impact on achievements, perceived learning, and experiences"
+218,Using a serious game to complement CPR instruction in a nurse faculty,2015,COMPUT METH PROG BIO,WoS,no,Using serious game to complement CPR instruction
+219,What makes people react to the posts on the brand pages of mobile social network games?,2016,ONLINE INFORM REV,WoS,no,Factors influencing reactions to brand pages in mobile social network games
+220,Motivation is a game: Massively multiplayer online games as agents of motivation in higher education,2018,COMPUT EDUC,WoS,no,MMO games as agents of motivation in higher education
+221,Game-based adaptive anomaly detection in wireless body area networks,2019,COMPUT NETW,WoS,no,Game-based adaptive anomaly detection in WBANs
+222,Turn Your Mobile Into the Ball: Rendering Live Football Game Using Vibration,2008,IEEE T MULTIMEDIA,WoS,no,Rendering live football game on mobile using vibration
+223,Personality-based reward contingency selection: A player-centered approach to gameplay customization in a serious game for cognitive training,2018,ENTERTAIN COMPUT,WoS,no,Personality-based reward contingency in serious game for cognitive training
+224,Increasing middle school students' awareness and interest in manufacturing through digital game-based learning (DGBL),2017,COMPUT APPL ENG EDUC,WoS,no,Increasing awareness and interest in manufacturing through DGBL
+225,"Putting yourself in someone else's shoes: The impact of a location-based, collaborative role-playing game on behaviour",2015,COMPUT EDUC,WoS,no,"Impact of location-based, collaborative role-playing game on behavior"
+226,A framework for the design and integration of collaborative classroom games,2011,COMPUT EDUC,WoS,no,Framework for designing and integrating collaborative classroom games
+227,A Neuroevolution Approach to General Atari Game Playing,2014,IEEE T COMP INTEL AI,WoS,no,Neuroevolution approach to general Atari game playing
+228,User Monitoring in Autonomous Driving System Using Gamified Task: A Case for VR/AR In-Car Gaming,2021,MULTIMODAL TECHNOLOG,WoS,no,User monitoring in autonomous driving using gamified VR/AR in-car gaming
+229,Ball State Based Parallel Ball Tracking and Event Detection for Volleyball Game Analysis,2017,IEICE T FUND ELECTR,WoS,no,Parallel ball tracking and event detection in volleyball game analysis
+230,Heuristic search applied to abstract combat games,2005,LECT NOTES COMPUT SC,WoS,no,Heuristic search in abstract combat games
+231,The wear out effect of a game-based student response system,2015,COMPUT EDUC,WoS,no,Wear out effect of game-based student response system
+232,A Review of Real-Time Strategy Game AI,2014,AI MAG,WoS,duplicate-no,
+233,User eXperience Management from Early Stages of Computer Game Development,2016,INT J SOFTW ENG KNOW,WoS,no,UX management in early stages of computer game development
+234,Serious games and learning effectiveness: The case of It's a Deal!,2012,COMPUT EDUC,WoS,no,Learning effectiveness of serious games: Case of It's a Deal!
+235,Demystifying the First-Time Experience of Mobile Games: The Presence of a Tutorial Has a Positive Impact on Non-Expert Players' Flow and Continuous-Use Intentions,2020,MULTIMODAL TECHNOLOG,WoS,no,Impact of tutorials on first-time experience and continuous use intentions in mobile games
+236,A Distributed Caching Scheme Using Non-Cooperative Game for Mobile Edge Networks,2020,IEEE ACCESS,WoS,no,Distributed caching scheme using non-cooperative game for mobile edge networks
+237,Fusion of audio and motion information on HMM-based highlight extraction for baseball games,2006,IEEE T MULTIMEDIA,WoS,no,Fusion of audio and motion for highlight extraction in baseball games
+238,An Automated Player Detection and Tracking in Basketball Game,2019,CMC-COMPUT MATER CON,WoS,no,Automated player detection and tracking in basketball games
+239,An Empirical Pipeline to Derive Gaze Prediction Heuristics for 3D Action Games,2010,ACM T APPL PERCEPT,WoS,no,Empirical pipeline to derive gaze prediction heuristics for 3D action games
+240,Exploring Newtonian mechanics in a conceptually-integrated digital game: Comparison of learning and affective outcomes for students in Taiwan and the United States,2011,COMPUT EDUC,WoS,no,"Exploring Newtonian mechanics in digital game, comparing outcomes in Taiwan and the United States"
+241,Multi-agent simulations for the evaluation of Looting Systems design in MMOG and MOBA games,2018,SIMUL MODEL PRACT TH,WoS,no,Multi-agent simulations for evaluating looting system designs in MMOG and MOBA games
+242,Brain Computer Interface-Based Action Observation Game Enhances Mu Suppression in Patients with Stroke,2019,ELECTRONICS-SWITZ,WoS,no,BCI-based action observation game enhances mu suppression in stroke patients
+243,Court-Divisional Team Motion and Player Performance Curve Based Automatic Game Strategy Data Acquisition for Volleyball Analysis,2018,IEICE T FUND ELECTR,WoS,no,Automatic game strategy data acquisition for volleyball analysis based on team motion and player performance curve
+244,Multimodal recognition of frustration during game-play with deep neural networks,2023,MULTIMED TOOLS APPL,WoS,no,Multimodal recognition of frustration during game-play using deep neural networks
+245,Young children's social and independent behavior during play with a coding app: Digital game features matter in a 1:1 child to tablet setting,2022,COMPUT EDUC,WoS,no,"Social and independent behavior of young children in coding app, digital game features in 1:1 child-to-tablet setting"
+246,Visualizing log-file data from a game using timed word trees,2018,INFORM VISUAL,WoS,no,Visualizing log-file data from a game using timed word trees
+247,The influence of task demand and social categorization diversity on performance and enjoyment in a language learning game,2016,COMPUT EDUC,WoS,no,Influence of task demand and social categorization diversity on performance and enjoyment in language learning game
+248,The effect of uncertainty on learning in game-like environments,2013,COMPUT EDUC,WoS,no,Effect of uncertainty on learning in game-like environments
+249,BCI Sensor Based Environment Changing System for Immersion of 3D Game,2014,INT J DISTRIB SENS N,WoS,no,BCI sensor-based environment changing system for immersion in 3D games
+250,Exploring teacher immediacy-(non)dependency in the tutored augmented reality game-assisted flipped classrooms of English for medical purposes comprehension among the Asian students,2022,COMPUT EDUC,WoS,no,Exploring teacher immediacy and dependency in AR game-assisted flipped classrooms for medical English comprehension in Asian students
+251,Predicting vehicle collisions using data collected from video games,2021,MACH VISION APPL,WoS,no,Predicting vehicle collisions using video game data
+252,"Automatic annotation of tennis games: An integration of audio, vision, and learning",2014,IMAGE VISION COMPUT,WoS,no,"Automatic annotation of tennis games using audio, vision, and learning"
+253,Predicting viewer-perceived activity/dominance in soccer games with stick-breaking HMM using data from a fixed set of cameras,2016,MULTIMED TOOLS APPL,WoS,no,Predicting viewer-perceived activity/dominance in soccer games using stick-breaking HMM
+254,The effects of modern mathematics computer games on mathematics achievement and class motivation,2010,COMPUT EDUC,WoS,no,Effects of modern mathematics computer games on mathematics achievement and class motivation
+255,On frame rate and player performance in first person shooter games,2007,MULTIMEDIA SYST,WoS,no,Relationship between frame rate and player performance in FPS games
+256,Advanced overtaking behaviors for blocking opponents in racing games using a fuzzy architecture,2013,EXPERT SYST APPL,WoS,no,Advanced overtaking behaviors in racing games using fuzzy architecture
+257,An immersive virtual reality serious game to enhance earthquake behavioral responses and post-earthquake evacuation preparedness in buildings,2020,ADV ENG INFORM,WoS,no,VR serious game to enhance earthquake responses and evacuation preparedness
+258,Learning to automatically spectate games for Esports using object detection mechanism,2023,EXPERT SYST APPL,WoS,no,Learning to spectate Esports using object detection
+259,From Chess and Atari to StarCraft and Beyond: How Game AI is Driving the World of AI,2020,KUNSTL INTELL,WoS,duplicate-no,
+260,User-Centred Design and Usability Evaluation of a Heart Rate Variability Biofeedback Game,2016,IEEE ACCESS,WoS,no,User-centred design and usability evaluation of HRV biofeedback game
+261,"Building virtual cities, inspiring intelligent citizens: Digital games for developing students' problem solving and learning motivation",2012,COMPUT EDUC,WoS,no,Using digital games to develop problem solving and learning motivation
+262,A concept map-embedded educational computer game for improving students' learning performance in natural science courses,2013,COMPUT EDUC,WoS,no,Concept map-embedded educational game for improving learning in natural science
+263,Less than Attractiveness of e-Sports Games for Female Audience-Journalism,2022,INT J COMPUT SCI NET,WoS,no,Challenges in attractiveness of e-sports games for female audience
+264,A technology platform for automatic high-level tennis game analysis,2017,COMPUT VIS IMAGE UND,WoS,no,Technology platform for automatic high-level tennis game analysis
+265,A graph-based representation of game scenarios; methodology for minimizing anomalies in computer game,2010,VISUAL COMPUT,WoS,no,Graph-based representation for minimizing anomalies in computer game scenarios
+266,Zero-Sum Differential Game-Based Fault-Tolerant Control for a Class of Affine Nonlinear Systems,2024,IEEE T CYBERNETICS,WoS,no,Zero-sum differential game-based fault-tolerant control for nonlinear systems
+267,Vision-based serious games and virtual reality systems for motor rehabilitation: A review geared toward a research methodology,2019,INT J MED INFORM,WoS,no,Vision-based serious games and VR systems for motor rehabilitation research methodology
+268,Synchronous Fault-Tolerant Near-Optimal Control for Discrete-Time Nonlinear PE Game,2021,IEEE T NEUR NET LEAR,WoS,no,Synchronous fault-tolerant near-optimal control for discrete-time nonlinear PE game
+269,An Energy-Efficient and Fault-Tolerant Topology Control Game Algorithm for Wireless Sensor Network,2019,ELECTRONICS-SWITZ,WoS,no,Energy-efficient and fault-tolerant topology control game for WSN
+270,Two-Level Game-Based Distributed Optimal Fault-Tolerant Control for Nonlinear Interconnected Systems,2020,IEEE T NEUR NET LEAR,WoS,no,Two-level game-based distributed optimal fault-tolerant control for interconnected systems
+271,GBGallery : A benchmark and framework for game testing,2022,EMPIR SOFTW ENG,WoS,duplicate-no,
+272,A Game Theoretic Approach for Quality Assurance in Software Systems Using Antifragility-Based Learning Hooks,2020,J CASES INF TECHNOL,WoS,no,Game theoretic approach for QA in software systems using antifragility-based learning hooks
+273,Game Theoretical Method for Anomaly-Based Intrusion Detection,2020,SECUR COMMUN NETW,WoS,no,Game theoretical method for anomaly-based intrusion detection
+274,Game of protocols: Is QUIC ready for prime time streaming?,2020,INT J NETW MANAG,WoS,no,QUIC protocol readiness for prime time streaming
+275,Security Log Analysis in Critical Industrial Systems Exploiting Game Theoretic Feature Selection and Evidence Combination,2020,IEEE T IND INFORM,WoS,no,Security log analysis in critical industrial systems using game theoretic feature selection
+276,Building the perfect game - an empirical study of game modifications,2020,EMPIR SOFTW ENG,WoS,no,Empirical study of game modifications
+277,A firefly inspired game dissemination and QoS-based priority pricing strategy for online social network games,2018,INT J BIO-INSPIR COM,WoS,no,Firefly inspired game dissemination and QoS-based pricing strategy for social network games
+278,"Repairing Games at Runtime or, How We Learned to Stop Worrying and Love Emergence",2011,IEEE SOFTWARE,WoS,duplicate-yes,
+279,SLA-based operations of massively multiplayer online games in clouds,2014,MULTIMEDIA SYST,WoS,no,SLA-based operations of MMO games in clouds
+280,A Game-Theoretic Foundation for the Maximum Software Resilience against Dense Errors,2016,IEEE T SOFTWARE ENG,WoS,no,Game-theoretic foundation for maximum software resilience against dense errors
+281,Improving Resilience of Software Systems: A Case Study in 3D-Online Game System,2017,INT J SOFTW ENG KNOW,WoS,no,Improving resilience of software systems in 3D online games
+282,Priority-based Differentiated Service in Spectrum Mobility Game,2014,KSII T INTERNET INF,WoS,no,Priority-based differentiated service in spectrum mobility game
+283,Journey: A Massively Multiplayer Online Game Middleware,2011,IEEE SOFTWARE,WoS,no,Journey: MMO game middleware
+284,Virtual machines migration game approach for multi-tier application in infrastructure as a service cloud computing,2020,IET NETW,WoS,no,Virtual machines migration game approach in multi-tier application for IaaS cloud computing
+285,Potential Game Based Distributed Control for Voronoi Coverage Problems with Obstacle Avoidance,2012,IEICE T FUND ELECTR,WoS,no,Potential game-based distributed control for Voronoi coverage problems with obstacle avoidance
+286,A Game Theoretical Based System Using Holt-Winters and Genetic Algorithm With Fuzzy Logic for DoS/DDoS Mitigation on SDN Networks,2017,IEEE ACCESS,WoS,no,"Game theoretical system using Holt-Winters, genetic algorithm, and fuzzy logic for DoS/DDoS mitigation on SDN networks"
+287,Balanced environmental games,2006,COMPUT OPER RES,WoS,no,Balanced environmental games
+288,Cheating and Detection Method in Massively Multiplayer Online Role-Playing Game: Systematic Literature Review,2022,IEEE ACCESS,WoS,no,Cheating and detection methods in MMORPGs: Literature review
+289,Evolutionary dynamics of an asymmetric game between a supplier and a retailer,2006,LECT NOTES COMPUT SC,WoS,no,Evolutionary dynamics of game between supplier and retailer
+290,An empirical study of game reviews on the Steam platform,2019,EMPIR SOFTW ENG,WoS,no,Empirical study of game reviews on Steam platform
+291,Selfish Dynamic Punishment Scheme: Misbehavior Detection in MANETs Using Cooperative Repeated Game,2020,INT J COMPUT SCI NET,WoS,no,Misbehavior detection in MANETs using cooperative repeated game
+292,The Game Selection Model for the Payoff Strategy Optimization of Mobile CrowdSensing Task,2021,KSII T INTERNET INF,WoS,no,Payoff strategy optimization model for mobile crowd sensing tasks
+293,Operation analysis of massively multiplayer online games on unreliable resources,2016,PEER PEER NETW APPL,WoS,no,Analysis of MMO games operation on unreliable resources
+294,GTM-CSec: Game theoretic model for cloud security based on IDS and honeypot,2020,COMPUT SECUR,WoS,no,Game theoretic model for cloud security using IDS and honeypot
+295,Minority game and the wealth distribution in the artificial market,2005,LECT NOTES ARTIF INT,WoS,no,Study of minority game and wealth distribution in artificial markets
+296,Metamorphic Testing of an Artificially Intelligent Chess Game,2020,IEEE ACCESS,WoS,duplicate-yes,
+297,Analysis and prediction of autistic children's game characteristics,2019,INT J COMPUT APPL T,WoS,no,Analysis and prediction of game characteristics in autistic children
+298,Robot soccer confrontation decision-making technology based on MOGM: Multi-objective game model,2015,J INTELL FUZZY SYST,WoS,no,Decision-making technology in robot soccer based on multi-objective game model (MOGM)
+299,Migration cost and profit oriented cloud federation formation: hedonic coalition game based approach,2018,CLUSTER COMPUT,WoS,no,Cloud federation formation based on hedonic coalition game for migration cost and profit optimization
+300,Detection and mitigation of attacks on transportation networks as a multi-stage security game,2019,COMPUT SECUR,WoS,no,Detection and mitigation of attacks on transportation networks using multi-stage security game
+301,Protecting the Internet of Vehicles Against Advanced Persistent Threats: A Bayesian Stackelberg Game,2021,IEEE T RELIAB,WoS,no,Protection of Internet of Vehicles against advanced persistent threats using Bayesian Stackelberg game
+302,Heterogeneous investment in spatial public goods game with mixed strategy,2018,SOFT COMPUT,WoS,no,Study of heterogeneous investment in spatial public goods game with mixed strategy
+303,Underwater Backscatter Recognition Using Deep Fuzzy Extreme Convolutional Neural Network Optimized via Hunger Games Search,2023,NEURAL PROCESS LETT,WoS,no,Underwater backscatter recognition using deep fuzzy extreme CNN optimized via Hunger Games Search
+304,EFFECTS OF INDIVIDUAL'S SELF-EXAMINATION ON COOPERATION IN PRISONER'S DILEMMA GAME,2010,INT J MOD PHYS C,WoS,no,Effects of self-examination on cooperation in Prisoner's Dilemma game
+305,The use of games to help children eyes testing,2016,MULTIMED TOOLS APPL,WoS,no,Use of games for children's eye testing
+306,Evolutionary Game Analysis on Government Supervision and Dairy Enterprise in the Process of Product Recall in China,2020,INT J INF SYST SERV,WoS,no,Evolutionary game analysis on government supervision and dairy enterprise during product recall
+307,An Optimized Resource Scheduling Strategy for Hadoop Speculative Execution Based on Non-cooperative Game Schemes,2020,CMC-COMPUT MATER CON,WoS,no,Optimized resource scheduling strategy for Hadoop speculative execution based on non-cooperative game schemes
+308,Learning Conceptual Modeling Design Through the Classutopia Serious Game,2018,INT J SOFTW ENG KNOW,WoS,no,Learning conceptual modeling design through Classutopia serious game
+309,A Strategy Adaptive Evolution Approach Based on the Public Goods Game,2022,ELECTRONICS-SWITZ,WoS,no,Strategy adaptive evolution approach based on public goods game
+310,Extracting knowledge of customers' preferences in massively multiplayer online role playing games,2013,NEURAL COMPUT APPL,WoS,no,Extracting knowledge of customer preferences in MMORPGs
+311,A Networked N-Player Trust Game and Its Evolutionary Dynamics,2018,IEEE T EVOLUT COMPUT,WoS,no,Networked N-player trust game and its evolutionary dynamics
+312,Virtual Character Facial Expressions Influence Human Brain and Facial EMG Activity in a Decision-Making Game,2018,IEEE T AFFECT COMPUT,WoS,no,Influence of virtual character facial expressions on human brain and facial EMG activity in decision-making game
+313,RIMNet: Recommendation Incentive Mechanism based on evolutionary game dynamics in peer-to-peer service networks,2019,KNOWL-BASED SYST,WoS,no,RIMNet: Recommendation incentive mechanism based on evolutionary game dynamics in P2P service networks
+314,Coordinating actions in congestion games: impact of top-down and bottom-up utilities,2013,AUTON AGENT MULTI-AG,WoS,no,Coordinating actions in congestion games and impact of top-down vs. bottom-up utilities
+315,RETRACTED: Design of Game Data Acquisition System Based on Artificial Intelligence Algorithm (Retracted Article),2022,SECUR COMMUN NETW,WoS,no,Retracted article on design of game data acquisition system using AI algorithm
+316,Unraveling ancient mysteries: Reimagining the past using evolutionary computation in a complex gaming environment,2005,IEEE T EVOLUT COMPUT,WoS,no,Reimagining the past using evolutionary computation in complex gaming environment
+317,Coordination and Optimization of CCHP Microgrid Group Game Based on the Interaction of Electric and Thermal Energy Considering Conditional Value at Risk,2021,IEEE ACCESS,WoS,no,Coordination and optimization of CCHP microgrid group game considering electric and thermal energy interaction and CVaR
+318,Event-Triggered Safe Control for the Zero-Sum Game of Nonlinear Safety-Critical Systems With Input Saturation,2022,IEEE ACCESS,WoS,no,Event-triggered safe control for zero-sum game of nonlinear safety-critical systems with input saturation
+319,A multiplayer game model to detect insiders in wireless sensor networks,2022,PEERJ COMPUT SCI,WoS,no,Multiplayer game model to detect insiders in wireless sensor networks
+320,Multiagent/Multiobjective Interaction Game System for Service Provisioning in Vehicular Cloud,2016,IEEE ACCESS,WoS,no,Multiagent/multiobjective interaction game system for service provisioning in vehicular cloud
+321,Game theoretical security detection strategy for networked systems,2018,INFORM SCIENCES,WoS,no,Game theoretic security detection strategy for networked systems
+322,A Game-Theoretic Approach for Enhancing Security and Data Trustworthiness in IoT Applications,2020,IEEE INTERNET THINGS,WoS,no,Game-theoretic approach for enhancing security and data trustworthiness in IoT applications
+323,Sentiment analysis of player chat messaging in the video game StarCraft 2: Extending a lexicon-based model,2017,KNOWL-BASED SYST,WoS,duplicate-no,
+324,Adaptive Dynamic Programming-Based Event-Triggered Robust Control for Multiplayer Nonzero-Sum Games With Unknown Dynamics,2023,IEEE T CYBERNETICS,WoS,no,Adaptive dynamic programming-based event-triggered robust control for multiplayer nonzero-sum games with unknown dynamics
+,,,,,,
+,Total duplicates,,,,20,
+,Relevant duplicates,,,,6,
+,Unique Relevant,,,,0,
+,Irrelevant,,,,304,
+,Total,,,,324,
